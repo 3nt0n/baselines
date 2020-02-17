@@ -49,6 +49,23 @@ _game_envs['retro'] = {
     'SpaceInvaders-Snes',
 }
 
+#add custom environment (Anton):
+
+_game_envs['robotics']={'FetchSlideball-v0'}
+_game_envs['robotics']={'FetchSlideball-v1'}
+_game_envs['robotics']={'FetchSlideball-v2'}
+_game_envs['robotics']={'FetchSlideball-v3'}
+_game_envs['robotics']={'FetchSlideball-v4'}
+_game_envs['robotics']={'FetchSlideball-v5'}
+_game_envs['robotics']={'FetchSlideball-v9'}
+_game_envs['robotics']={'FetchToss-v0'}
+_game_envs['robotics']={'FetchToss-v1'}
+_game_envs['robotics']={'FetchToss-v2'}
+_game_envs['robotics']={'FetchToss-v3'}
+_game_envs['robotics']={'FetchToss-v4'}
+_game_envs['robotics']={'FetchTosscube-v1'}
+_game_envs['robotics']={'FetchPickAndPlaceball-v1'}
+
 
 def train(args, extra_args):
     env_type, env_id = get_env_type(args)

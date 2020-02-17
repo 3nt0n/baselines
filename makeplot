@@ -1,0 +1,1 @@
+python ~/openai/baselines/baselines/her/experiment/plot.py ~/anton_git/bachelor_thesis/Experiments/FetchPickAndPlace-v1_training/100k-1env-1c/log/fetchpickandplace-v1-100k/
