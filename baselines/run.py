@@ -63,8 +63,20 @@ _game_envs['robotics']={'FetchToss-v1'}
 _game_envs['robotics']={'FetchToss-v2'}
 _game_envs['robotics']={'FetchToss-v3'}
 _game_envs['robotics']={'FetchToss-v4'}
+_game_envs['robotics']={'FetchToss-v5'}
+_game_envs['robotics']={'FetchToss-v6'}
+_game_envs['robotics']={'FetchToss-v7'}
+_game_envs['robotics']={'FetchToss-v8'}
+_game_envs['robotics']={'FetchToss-v9'}
+_game_envs['robotics']={'FetchToss-v10'}
+_game_envs['robotics']={'FetchToss-v11'}
+_game_envs['robotics']={'FetchToss-v12'}
+_game_envs['robotics']={'FetchToss-v13'}
+_game_envs['robotics']={'FetchToss-v14'}
+_game_envs['robotics']={'FetchToss-v15'}
 _game_envs['robotics']={'FetchTosscube-v1'}
 _game_envs['robotics']={'FetchPickAndPlaceball-v1'}
+_game_envs['robotics']={'FetchPickAndPlaceAir-v1'}
 
 
 def train(args, extra_args):

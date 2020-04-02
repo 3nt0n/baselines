@@ -1,1 +1,0 @@
-python -m baselines.run --alg=her --env=FetchPushball-v0  --num_timesteps=0 --play
